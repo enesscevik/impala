@@ -1,3 +1,7 @@
+## v0.7.4 - 2026-02-13
+
+- fix: correct Phase 2 method names for iwd compatibility
+
 ## v0.7.3 - 2026-02-03
 
 - fix: use the correct fields names of PEAP network config
